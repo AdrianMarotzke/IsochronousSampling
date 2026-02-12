@@ -1,5 +1,5 @@
 # Isochronous Sampling
-This repository contains the code for the paper Isochronous Fixed-Weight Sampling in Hardware.
+This repository contains the code for the paper [Isochronous Fixed-Weight Sampling in Hardware](https://eprint.iacr.org/2026/218.pdf).
 
 The files IsochronousSampling_X_Y are the top level entites, for cryptoscheme X and variant Y.
 The supported cryptoschemes are NTRU-HPS, Streamlined NTRU Prime and Classic Mceliece.
