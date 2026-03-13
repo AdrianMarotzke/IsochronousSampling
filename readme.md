@@ -20,3 +20,20 @@ This repository makes use of third-party code:
 * The HPC2 gadgets are from https://github.com/cassiersg/fullverif/
 * The masked Sklansky adder and multiplexer are from https://github.com/AdrianMarotzke/Masked-SNTRUP
 * The FIFO buffer is from https://vhdlwhiz.com/ring-buffer-fifo/ 
+
+# Acknowledgments
+This work was supported by the Federal Ministry of Research, Technology and Space (BMFTR) of the Federal Republic of Germany (grant 16KIS1572K, SASVI), as well as the  European Commission under the grant agreement number 101070374 (CONVOLVE).
+This work was supported by the European Cybersecurity Competence Centre under the European Union’s Horizon Europe research and innovation program under  grant agreement number 101225859 (FOCAL).
+
+# Citation
+If you want to cite this work, please use the following bibtex:
+
+```
+@Misc{marotzke2026isochronous,
+  title="{Isochronous Fixed-Weight Sampling in Hardware}",
+  author={Marotzke, Adrian},
+  year={2026},
+  howpublished = "{Cryptology ePrint Archive, Report 2026/218}",
+  url = {https://eprint.iacr.org/2026/218},
+}
+```
